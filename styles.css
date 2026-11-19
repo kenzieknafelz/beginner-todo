@@ -1,0 +1,16 @@
+body {
+  background-color: #6777b6;
+  color: white;
+  text-align: center;
+}
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
+li {
+  cursor: pointer;
+}
+li button {
+  margin-left: 10px;
+  cursor: pointer;
+}
